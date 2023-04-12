@@ -1,4 +1,4 @@
-# Burger Queen - API con Node.js
+# Tacos al pastor Goku - API con Node.js
 
 ## Índice
 
